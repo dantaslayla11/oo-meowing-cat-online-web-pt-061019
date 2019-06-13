@@ -9,5 +9,11 @@ class Cat
 maru = Cat.new
 maru.name = "Maru"
 
-def meow
+class Cat
+  def meow
+    puts 
+  end
+end
+  
+  
   
